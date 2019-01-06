@@ -30,7 +30,7 @@ This repository gives a quick tutorial on implementing Canonical Polyadic tensor
     <img src="https://raw.githubusercontent.com/mohammadbashiri/tensor-decomposition-in-python/master/figures/metric-1.png" alt="Fig1" width="300">
 </p>
 
-For the complete tutorial click [here](), and for the extended version click [here](https://github.com/mohammadbashiri/tensor-decomposition-in-python/blob/master/TCA-extended.ipynb).
+For the complete tutorial click [here](https://medium.com/@mohammadbashiri93/tensor-decomposition-in-python-f1aa2f9adbf4), and for the extended version click [here](https://github.com/mohammadbashiri/tensor-decomposition-in-python/blob/master/TCA-extended.ipynb).
 
 
 ---
