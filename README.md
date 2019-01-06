@@ -30,7 +30,7 @@ This repository gives a quick tutorial on implementing Canonical Polyadic tensor
     <img src="https://raw.githubusercontent.com/mbashiri/tensor-decomposition-with-python/master/figures/metric-1.png?token=AjfLQx3EfwRyn6MqYe1_bLLJC_dZ9xjUks5cO1SBwA%3D%3D" alt="Fig1" width="300">
 </p>
 
-For the complete tutorial click [here](), and for the Jupyter notebook click [here]().
+For the complete tutorial click [here](), and for the Jupyter notebook click [here](https://github.com/mohammadbashiri/tensor-decomposition-in-python/blob/master/TCA.ipynb).
 
 
 ---
@@ -47,4 +47,8 @@ I would like to thank Annika Thierfelder for her constructive feedback on the co
 
 ---
 ## References
-
+- Tuncer, Yalcin, Murat M. Tanik, and David B. Allison. "An overview of statistical decomposition techniques applied to complex systems." Computational statistics & data analysis 52.5 (2008): 2292–2310.
+- Cichocki, Andrzej, et al. "Tensor decompositions for signal processing applications: From two-way to multiway component analysis." IEEE Signal Processing Magazine 32.2 (2015): 145–163.
+- Williams, Alex H., et al. "Unsupervised Discovery of Demixed, Low-Dimensional Neural Dynamics across Multiple Timescales through Tensor Component Analysis." Neuron (2018).
+- [Talk](https://www.youtube.com/watch?v=L8uT6hgMt00&t=1302s) by Tamara Kolda
+- Tutorial by Alex Williams: [part 1](https://www.youtube.com/watch?v=hmmnRF66hOA), [part 2](https://www.youtube.com/watch?v=O-YTsSuEFiM&t=5s)
