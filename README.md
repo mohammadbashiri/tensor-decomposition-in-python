@@ -19,6 +19,8 @@ This repository gives a quick tutorial on implementing Canonical Polyadic tensor
 
 ### Example Scenario (with a neuroscientific theme)
 
+An attempt to reproducing the result of [this paper](https://doi.org/10.1016/j.neuron.2018.05.015)'s figure 2.
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mohammadbashiri/tensor-decomposition-in-python/master/figures/model.png" alt="Fig1" width="380">
     <img src="https://raw.githubusercontent.com/mohammadbashiri/tensor-decomposition-in-python/master/figures/neuron-time.png" alt="Fig1" width="500">
