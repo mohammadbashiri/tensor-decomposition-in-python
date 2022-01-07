@@ -1,5 +1,7 @@
 FROM jupyter/datascience-notebook:r-4.1.2
 
+USER root
+
 # Install essential Python packages
 RUN python3 -m pip --no-cache-dir install \
     "tensorly==0.4.3" \
