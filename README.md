@@ -40,12 +40,32 @@ For the complete tutorial click [here](https://medium.com/@mohammadbashiri93/ten
 - Numpy
 - Matplotlib
 - Seaborn
-- TensorLy
+- TensorLy == 0.4.3
 - tensortools
+---
+## Running the notebooks inside docker container
+Of course you can simply install the dependencies and run the code in your own Python environment. But another option to run the notebook in a docker container:
 
+1. Clone the repository
+    ```
+    git clone https://github.com/mohammadbashiri/tensor-decomposition-in-python.git
+    ```
+2. Navigate to the project directory
+    ```
+    cd ensor-decomposition-in-python
+    ```
+3. Build the docker image
+    ```
+    docker build -t ds .
+    ```
+4. Create a container from the created image
+    ```
+    docker run -p 7890:8888 -v $(pwd):/project --name ds_container -d --rm ds
+    ```
+5. By entering `localhost:7890` in your browser you can open the current directory inside jupyterlab and run the notebooks 
 ---
 ## Acknowledgement
-I would like to thank Annika Thierfelder for her constructive feedback on the content.
+I would like to thank [Annika Thierfelder](https://github.com/athierfelder) for her constructive feedback on the content.
 
 ---
 ## References
