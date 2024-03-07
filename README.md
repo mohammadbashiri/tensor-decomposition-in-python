@@ -52,7 +52,7 @@ Of course you can simply install the dependencies and run the code in your own P
     ```
 2. Navigate to the project directory
     ```
-    cd ensor-decomposition-in-python
+    cd tensor-decomposition-in-python
     ```
 3. Build the docker image
     ```
